@@ -1374,6 +1374,9 @@ ol {
     .hero-info ul li span {
         display: block;
     }
+	.site-logo p, .site-logo a {
+    color:#000 !important;
+}
 }
 
 
@@ -1446,9 +1449,7 @@ ol {
     .info-section .hero-info ul li span {
         color: #fff;
     }
-	.site-logo p {
-    color:#000 !important;
-}
+	
 }
 
 
